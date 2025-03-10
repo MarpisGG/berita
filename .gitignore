@@ -1,6 +1,0 @@
-echo "frontend/node_modules/" >> .gitignore
-echo "backend/vendor/" >> .gitignore
-echo "backend/storage/" >> .gitignore
-echo "backend/bootstrap/cache/" >> .gitignore
-echo "frontend/.env" >> .gitignore
-echo "backend/.env" >> .gitignore
